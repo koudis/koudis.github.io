@@ -7,5 +7,5 @@ This page serve as guidepost for my not only Github projects
 
 ## Projects
 
-- [Boost prebuild libraries for Linux and Mac OS X](https://github.com/koudis/boost-prebuild-binaries)
+- [Boost prebuilt libraries for Linux and Mac OS X](https://github.com/koudis/boost-prebuilt-binaries)
 
